@@ -7,6 +7,10 @@ metadata:
     "backstage.io/cloud-run": "cicd-test-2"
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: monkmantra/app-cicd-test-2
+    links:
+    - url: https://console.cloud.google.com/run/detail/us-east4/idp-cicd-test-2/logs?project=png-gcp-learning-poc
+      title: Logs Dashboard
+      icon: dashboard
 spec:
   type: service
   owner: user:de-ims
